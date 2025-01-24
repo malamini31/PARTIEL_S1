@@ -6,9 +6,9 @@ int main() {
  int capacite= 20;
  int choix;
  cout << "****** Gestion d'une station Vélô ******" << endl << endl;
- cout << "-----------------------------------------" << endl;
+ cout << "Vélos disponibles : 20 " << endl;
  //Partie à compléter 3.1
- cout << "-----------------------------------------" << endl<< endl;
+ cout << "Points d'attache disponibles : 0" << endl<< endl;
  cout << "1. Emprunter un vélô électrique" << endl;
  cout << "2. Restituer un vélô électrique" << endl;
  cout << "3. Estimer le coût de la location" << endl;
